@@ -9,4 +9,7 @@ func main() {
 	}
 	fmt.Println(120000000)
 	fmt.Println(333333)
+	fmt.Println(233333)
+	fmt.Println(233333)
+	fmt.Println(233333)
 }
