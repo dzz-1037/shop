@@ -7,9 +7,5 @@ func main() {
 	for i := 0; i < 10; i++ {
 		fmt.Println(i)
 	}
-	//
-	//
-	//
-	///
-	//解决冲突用
+	fmt.Println(12345)
 }
