@@ -9,6 +9,5 @@ func main() {
 	}
 	fmt.Println(120000000)
 
-	fmt.Println(120000001)
 	fmt.Println("last")
 }
