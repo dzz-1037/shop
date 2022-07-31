@@ -10,5 +10,5 @@ func main() {
 	fmt.Println("last")
 	fmt.Println("last")
 	fmt.Println("last")
-	fmt.Println("last")
+	fmt.Println("last1233run")
 }
